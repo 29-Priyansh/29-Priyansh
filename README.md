@@ -33,6 +33,10 @@ I enjoy building clean UI, writing efficient backend logic, and connecting every
 
 ## 🛠️ Tech Stack
 
+<table width="100%">
+<tr>
+<td valign="top" width="33%">
+
 ### 👨‍💻 Frontend
 - HTML5  
 - CSS3  
@@ -40,19 +44,31 @@ I enjoy building clean UI, writing efficient backend logic, and connecting every
 - React  
 - Tailwind CSS  
 
+</td>
+
+<td valign="top" width="33%">
+
 ### 🔧 Backend
 - Node.js  
 - Express.js  
 - REST APIs  
+- Authentication  
+- JWT  
 
-### 🗄️ Database
+</td>
+
+<td valign="top" width="33%">
+
+### 🗄️ Database & Tools
 - MongoDB  
 - MySQL  
+- Git & GitHub  
+- VS Code  
+- Postman  
 
-### 💡 Programming Languages
-- JavaScript  
-- C++  
-- Python  
+</td>
+</tr>
+</table>
 
 ---
 
